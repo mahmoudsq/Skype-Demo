@@ -1,7 +1,7 @@
 # skypeclone
 
-A new Flutter application.
-
+ A social app covers video call using agora sdk and chat using firebase 
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
